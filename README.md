@@ -90,7 +90,11 @@
   R 기반의 ggplot, Shiny
 
 ### 🤖 **머신러닝 및 AI**
-- Scikit-learn, TensorFlow, Keras
+- **머신러닝:** Scikit-learn, TensorFlow, Keras  
+- **딥러닝:** PyTorch, TensorFlow, Keras, YOLO (You Only Look Once)  
+- **데이터 라벨링:** 객체 탐지 및 분류를 위한 데이터 라벨링 작업 수행  
+  - **도구:** LabelImg  
+  - 이미지 데이터셋의 정밀 라벨링 및 모델 학습 데이터 구축 
 
 ---
 
