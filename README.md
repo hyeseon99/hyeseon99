@@ -77,7 +77,7 @@
  
 #### 관련 자료
 - **프로젝트 관련 홈페이지:**  
-  [병원 및 음식점 맞춤형 추천 제작 사이트](sejong-rb82yem7epu6bcxlpewgfk.streamlit.app)
+  [병원 및 음식점 맞춤형 추천 제작 사이트](https://sejong-rb82yem7epu6bcxlpewgfk.streamlit.app/)
   
 - **관련 자료 및 소스코드:**  
   [자세한 프로젝트 내용 (GitHub)](https://github.com/hyeseon99/SejongSi_Contest)    
