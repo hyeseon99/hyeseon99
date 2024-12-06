@@ -1,3 +1,7 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Thank%20you%20for%20visiting%20&animation=blinking&fontColor=000000&fontSize=60" />
+    </div>
+    
 # 👩‍💻 HyeSeon Moon | 딥러닝 개발자 & 데이터 분석가
 
 안녕하세요! 저는 Python, SQL, R, Tableau 등을 활용해 데이터를 분석하고 딥러닝 모델을 개발하는 전문가입니다.  
