@@ -110,44 +110,45 @@
 
 
 
-## 🔧 **기술 스택 (Skills)**
+# 🔧 **기술 스택 (Skills)**
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-    <div style="margin: ; text-align: left;"> 
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
-        <br/>
-    </div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
 </div>
 
 ---
 
-### 📊 **데이터 분석 도구**
-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-- Pandas, NumPy, Scikit-learn, BeautifulSoup  
+## 📊 **데이터 분석 및 시각화 도구**
+- **데이터 분석:** Pandas, NumPy, Scikit-learn, BeautifulSoup  
+- **시각화 도구:** Tableau, R 기반의 ggplot, Shiny  
 
 ---
 
-### 📈 **시각화 도구**
-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-- R 기반의 ggplot, Shiny  
-
-### 🤖 **머신러닝 및 AI**
+## 🤖 **머신러닝 및 AI**
 - **머신러닝:** Scikit-learn, TensorFlow, Keras  
 - **딥러닝:** PyTorch, TensorFlow, Keras, YOLO (You Only Look Once)  
 - **데이터 라벨링:** 객체 탐지 및 분류를 위한 데이터 라벨링 작업 수행  
-  - **도구:** LabelImg  
-  - 이미지 데이터셋의 정밀 라벨링 및 모델 학습 데이터 구축 
+  - **도구:** LabelImg, Roboflow  
+  - 이미지 데이터셋의 정밀 라벨링 및 모델 학습 데이터 구축  
+
+---
+
+## 🌟 **주요 특징**
+1. 다양한 데이터 분석 및 머신러닝 도구 활용.
+2. Tableau와 ggplot을 통한 직관적 데이터 시각화.
+3. YOLO와 PyTorch를 활용한 딥러닝 모델 구축.
+4. 데이터 라벨링과 전처리를 통해 모델 학습 효율성 향상.
+
 
 ---
 
