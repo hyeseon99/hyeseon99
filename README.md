@@ -1,6 +1,9 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Thank%20you%20for%20visiting%20&animation=blinking&fontColor=000000&fontSize=60" />
-    </div>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Exploring%20data,%20creating%20insights%20&fontColor=000000&fontSize=60" />
+    <p>📊 Empowering ideas through data and innovation. Thank you for visiting! 🚀</p>
+    <p>🌟 Let's make data-driven dreams come true! ✨</p>
+</div>
+
     
 # 👩‍💻 HyeSeon Moon | 딥러닝 개발자 & 데이터 분석가
 
