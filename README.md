@@ -1,7 +1,6 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Exploring%20data,%20creating%20insights%20&fontColor=000000&fontSize=60" />
-    <p>📊 Empowering ideas through data and innovation. Thank you for visiting! 🚀</p>
-    <p>🌟 Let's make data-driven dreams come true! ✨</p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Empowering%20Through%20Data&fontColor=000000&fontSize=60" />
+    <p>📈 Turning data into insights. 🚀</p>
 </div>
 
     
