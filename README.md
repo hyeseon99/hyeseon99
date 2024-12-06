@@ -1,7 +1,8 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Empowering%20Through%20Data&fontColor=000000&fontSize=60" />
-    <p>📈 Turning data into insights. 🚀</p>
+    <p>📊🔍📈✨</p>
 </div>
+
 
     
 # 👩‍💻 HyeSeon Moon | 딥러닝 개발자 & 데이터 분석가
