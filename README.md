@@ -60,7 +60,7 @@
 
 - **관련 자료 및 소스코드:**  
   [이미지를 클릭하면 자세한 프로젝트 페이지로 이동됩니다.]  
-  <a href="https://github.com/hyeseon99/K-water_Contest">
+  <a href="https://github.com/hyeseon99/Typhoon-analysis">
       <img src="./태풍분석.png" alt="태풍 분석 슬라이드" width="400">
   </a>
 
@@ -96,7 +96,7 @@
     
 - **관련 자료 및 소스코드:**  
   [이미지를 클릭하면 자세한 프로젝트 페이지로 이동됩니다.]  
-  <a href="https://github.com/hyeseon99/K-water_Contest">
+  <a href="https://github.com/hyeseon99/SejongSi_Contest">
       <img src="./세종시공모전1.png" alt="세종시 공모전 슬라이드" width="400">
   </a>
  
