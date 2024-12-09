@@ -74,7 +74,7 @@
 - **관련 자료 및 소스코드:**  
   [이미지를 클릭하면 자세한 프로젝트 페이지로 이동됩니다.]  
   <a href="https://github.com/hyeseon99/K-water_Contest">
-      <img src="./수자원공모전.png" alt="수자원 공모전 슬라이드" width="400">
+      <img src="./수자원공모전1.png" alt="수자원 공모전 슬라이드" width="400">
   </a>
 
 #### 관련 자료 및 사이트 링크
