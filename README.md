@@ -70,7 +70,7 @@
 - 🛠 **성과:**  
   - R Shiny 기반의 가뭄 예측 대시보드 제작  
   - 댐 관련 데이터의 전처리를 담당하며 데이터 품질 향상 기여
-  - 
+    
 - **관련 자료 및 소스코드:**  
   [이미지를 클릭하면 자세한 프로젝트 페이지로 이동됩니다.]  
   <a href="https://github.com/hyeseon99/K-water_Contest">
@@ -90,13 +90,17 @@
 - 🛠 **성과:**  
   - Streamlit 기반의 동적 웹페이지 제작  
   - 병원 및 음식점 데이터 크롤링을 담당하여 데이터 수집 및 전처리에 기여
+    
+- **관련 자료 및 소스코드:**  
+  [이미지를 클릭하면 자세한 프로젝트 페이지로 이동됩니다.]  
+  <a href="https://github.com/hyeseon99/K-water_Contest">
+      <img src="./세종시공모전1.png" alt="세종시 공모전 슬라이드" width="400">
+  </a>
  
 #### 관련 자료
 - **프로젝트 관련 홈페이지:**  
   [병원 및 음식점 맞춤형 추천 제작 사이트](https://sejong-rb82yem7epu6bcxlpewgfk.streamlit.app/)
-  
-- **관련 자료 및 소스코드:**  
-  [자세한 프로젝트 내용 (GitHub)](https://github.com/hyeseon99/SejongSi_Contest)    
+     
 
 ---
 
