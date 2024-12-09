@@ -69,14 +69,14 @@
 - 💻 **기술 스택:** R Shiny, Oracle  
 - 🛠 **성과:**  
   - R Shiny 기반의 가뭄 예측 대시보드 제작  
-  - 댐 관련 데이터의 전처리를 담당하며 데이터 품질 향상 기여  
+  - 댐 관련 데이터의 전처리를 담당하며 데이터 품질 향상 기여
+  - 
+  - **관련 자료 및 소스코드:**  
+[![태풍 분석 슬라이드](./태풍분석.png)](https://github.com/hyeseon99/K-water_Contest)
 
 #### 관련 자료 및 사이트 링크
 - **프로젝트 관련 홈페이지:**  
   [SPI6 예측 대시보드](https://spi-predictor.shinyapps.io/spi100/)  
-
-- **관련 자료 및 소스코드:**  
-  [자세한 프로젝트 내용 (GitHub)](https://github.com/hyeseon99/K-water_Contest)  
 
 ---
 
