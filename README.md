@@ -162,5 +162,5 @@
 
 ## 📬 연락처
 - ✉️ **Email:** [hyeson0416@gmail.com](mailto:hyeson0416@gmail.com)
-- 🌐 **Portfolio:** [https://hyeson99.github.io/Portfolio/](https://hyeson99.github.io/Portfolio/)
+- 🌐 **Notion:** [https://www.notion.so/SQL-Cleanup-150deaf9cd3481f4a9a1d425b0af3aa9)
 
