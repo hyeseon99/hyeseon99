@@ -48,7 +48,7 @@
 - **Tableau 및 데이터 시각화**
   - Tableau를 사용한 시각적 데이터 표현
   - 데이터 대시보드 설계
-  - <a href="https://github.com/hyeseon99/Tableau?tab=readme-ov-file"> Tableau 프로젝트 보기</a>
+  - <a href="https://github.com/hyeseon99/Tableau?tab=readme-ov-file"> Tableau 분석자료 보기</a>
 
 - **프로젝트 실습**
   - 텍스트 분석, 자연어 처리, 시계열 데이터 분석
