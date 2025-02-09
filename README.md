@@ -1,11 +1,3 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=Empowering%20Through%20Data&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-    </div>
-    
-
     
 # 👩‍💻 HyeSeon Moon | 딥러닝 개발자 & 데이터 분석가
 
